@@ -1,0 +1,70 @@
+E:\C Sharp\Aiub Blood Bank\bin\Debug\Aiub Blood Bank.exe.config
+E:\C Sharp\Aiub Blood Bank\bin\Debug\Aiub Blood Bank.exe
+E:\C Sharp\Aiub Blood Bank\bin\Debug\Aiub Blood Bank.pdb
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.csprojAssemblyReference.cache
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.Login.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.Properties.Resources.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.csproj.GenerateResource.cache
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.csproj.CoreCompileInputs.cache
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.exe
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.pdb
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.Registration.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AdminDashboard.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AddDonor.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AddPatient.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffDashboard.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AdminProfile.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AdminBloodStock.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffList.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffProfile.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AdminDonorList.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AdminPatientList.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffBloodStock.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffDonorList.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffPatientList.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.TransferBlood.resources
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.CollectBlood.resources
+E:\C Sharp\Aiub Blood Bank\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\C Sharp\Aiub Blood Bank\bin\Debug\System.Security.AccessControl.dll
+E:\C Sharp\Aiub Blood Bank\bin\Debug\System.Security.Permissions.dll
+E:\C Sharp\Aiub Blood Bank\bin\Debug\System.Security.Principal.Windows.dll
+E:\C Sharp\Aiub Blood Bank\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\C Sharp\Aiub Blood Bank\bin\Debug\System.Security.AccessControl.xml
+E:\C Sharp\Aiub Blood Bank\bin\Debug\System.Security.Permissions.xml
+E:\C Sharp\Aiub Blood Bank\bin\Debug\System.Security.Principal.Windows.xml
+E:\C Sharp\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.csproj.CopyComplete
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\bin\Debug\Aiub Blood Bank.exe.config
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\bin\Debug\Aiub Blood Bank.exe
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\bin\Debug\Aiub Blood Bank.pdb
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\bin\Debug\System.Security.Permissions.xml
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AddDonor.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AddPatient.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AdminDashboard.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AdminProfile.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AdminBloodStock.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AdminDonorList.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.CollectBlood.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.Login.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.AdminPatientList.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffBloodStock.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffDonorList.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffList.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffPatientList.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffProfile.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.Properties.Resources.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.Registration.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.StaffDashboard.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub_Blood_Bank.TransferBlood.resources
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.csproj.GenerateResource.cache
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.csproj.CopyComplete
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.exe
+C:\Users\User\Downloads\c#mine1\Aiub Blood Bank\obj\Debug\Aiub Blood Bank.pdb
